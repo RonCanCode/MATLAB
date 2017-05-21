@@ -1,3 +1,9 @@
+% Problem Set 7
+% Problem 5
+% EE178 - Stanford 2015
+%
+% Name: Ron Guglielmone
+
 % Global Vars:
 p = 0.84;
 numberOfTrials = 1000;
