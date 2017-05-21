@@ -1,3 +1,9 @@
+% Problem Set 3
+% Problem 1
+% EE178 - Stanford 2015
+%
+% Name: Ron Guglielmone
+
 % Number of tosses:
 n = 1000;
 
