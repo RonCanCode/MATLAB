@@ -1,3 +1,9 @@
+% Problem Set 9
+% Problem 5
+% EE178 - Stanford 2015
+%
+% Name: Ron Guglielmone
+
 % Initialize:
 low = 0;
 high = 0;
