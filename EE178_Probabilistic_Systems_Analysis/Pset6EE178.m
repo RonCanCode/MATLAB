@@ -1,3 +1,9 @@
+% Problem Set 6
+% Problem 1
+% EE178 - Stanford 2015
+%
+% Name: Ron Guglielmone
+
 clear
 
 % Bernoulli p-value:
