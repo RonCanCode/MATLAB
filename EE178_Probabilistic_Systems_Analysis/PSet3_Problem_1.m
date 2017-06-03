@@ -3,6 +3,10 @@
 % EE178 - Stanford 2015
 %
 % Name: Ron Guglielmone
+%
+% Simulates number of "heads" 
+% in a row for a sequence of
+% n coin tosses.
 
 % Number of tosses:
 n = 1000;
